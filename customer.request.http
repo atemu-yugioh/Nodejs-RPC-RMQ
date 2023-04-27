@@ -1,0 +1,5 @@
+@url=http://localhost:9000
+
+
+GET {{url}}/wishlist
+Content-Type: application/json
